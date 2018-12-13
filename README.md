@@ -2,7 +2,7 @@
 API for Facilitator ( entities which runs their own IoT management system using i4things server and tools )
 
 Example using PHP ( we provdie API's for any other server side scripst also - feel free to send a request to info@i4things.com if you require Facilitator API for different language )
-
+```
 <?php
 
 $facilitatorid = '<fill your failitator ID here>';
@@ -188,5 +188,5 @@ else
 }
 
 ?>
-
+```
 
